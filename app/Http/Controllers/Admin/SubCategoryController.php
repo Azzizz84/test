@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers\Admin;
-
+ 
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Admin\City\AddCityRequest;
 use App\Http\Traits\ImageTrait;
